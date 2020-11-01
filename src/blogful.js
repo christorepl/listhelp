@@ -9,4 +9,4 @@ const knexInstance = knex({
 })
 
 // console.log(ArticlesService.getAllArticles())
-console.log(ShoppingListService.getList())
+console.log(ShoppingListService.getAllItems())
